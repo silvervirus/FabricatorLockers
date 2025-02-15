@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/FabricatorLocker.csproj": {}
+  },
+  "projects": {
+    "/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/FabricatorLocker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/FabricatorLocker.csproj",
+        "projectName": "FabricatorLocker",
+        "projectPath": "/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/FabricatorLocker.csproj",
+        "packagesPath": "/home/cookay/.nuget/packages/",
+        "outputPath": "/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/nuget.config",
+          "/home/cookay/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/cookay/.dotnet/sdk/8.0.404/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

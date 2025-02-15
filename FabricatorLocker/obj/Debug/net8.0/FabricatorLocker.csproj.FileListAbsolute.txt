@@ -1,0 +1,17 @@
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/bin/Debug/net8.0/FabricatorLocker.deps.json
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/bin/Debug/net8.0/FabricatorLocker.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/bin/Debug/net8.0/FabricatorLocker.pdb
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/bin/Debug/net8.0/Assembly-CSharp-firstpass_publicized.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/bin/Debug/net8.0/Assembly-CSharp_publicized.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/bin/Debug/net8.0/UnityEngine.CoreModule.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/bin/Debug/net8.0/UnityEngine.SharedInternalsModule.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/FabricatorLocker.csproj.AssemblyReference.cache
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/FabricatorLocker.GeneratedMSBuildEditorConfig.editorconfig
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/FabricatorLocker.AssemblyInfoInputs.cache
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/FabricatorLocker.AssemblyInfo.cs
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/FabricatorLocker.csproj.CoreCompileInputs.cache
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/Fabricat.23AB20C0.Up2Date
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/FabricatorLocker.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/refint/FabricatorLocker.dll
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/FabricatorLocker.pdb
+/media/cookay/windows/Backup again/source/repos/MoreLockers/MoreDeco/FabricatorLocker/obj/Debug/net8.0/ref/FabricatorLocker.dll
